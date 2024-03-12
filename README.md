@@ -12,7 +12,7 @@ A time-series data analysis of daily Bitcoin market prices from January 1, 2022,
 The “Bitcoin Data Insights” was acquired from https://data.nasdaq.com/, via an account API.
 
 Contents:
-Dates and daily Bitcoin values from 1/1/2022 to 2/29/2024.
+The portion of the dataset that was acquired contained dates and daily Bitcoin market prices from 1/1/2022 to 2/29/2024.
 
 ## Files
 
