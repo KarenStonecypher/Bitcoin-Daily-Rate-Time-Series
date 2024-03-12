@@ -1,11 +1,11 @@
 # Bitcoin-Daily-Rate-Time-Series
-A time-series data analysis of daily Bitcoin rates from January 1, 2022, to February 29, 2024.
+A time-series data analysis of daily Bitcoin market prices from January 1, 2022, to February 29, 2024.
 
 ## Key Questions
 
-- Where are billionaires most concentrated in the world?
-- What factor most correlates to the number of billionaires in a country?
-- How are billionaires distributed according to different demographics?
+- How have Bitcoin market prices behaved in this time frame?
+- What do the trend, seasonality, and noise look like when the time-series is decomposed?
+- Is the data stationary or can it be stationarized? 
 
 ## Data
 
